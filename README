@@ -1,0 +1,16 @@
+Group 14 3600.001
+
+NAMES:
+    Joseph Fergen
+    Aaron Shehan
+    Het Patel
+    Adil Afroze
+    
+Organization:
+    Joseph Fergen: main.c/main.h setup, parity.c
+    Aaron Shehan: main.h, clz.c
+    Het Patel: main.h, rotate.c
+    Adil Afroze: main.h, endian.c
+    
+Known Bugs or Problems:
+    None, it is perfect.
