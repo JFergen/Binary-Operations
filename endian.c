@@ -1,8 +1,3 @@
-/* CSCE 3600.001 09/23/2019
-    Group 14:
-        Adil Afroze
-*/
-
 #include "main.h"
 
 //Endian Function
