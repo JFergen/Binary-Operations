@@ -1,5 +1,3 @@
-//Name: Het Devan Patel, EUID: HDP0033, Recitation Section: 207
-//c function that handels right rotatation given a input number and the number of rotatations to be preformed
 #include <stdio.h>
 void rotate(unsigned int inputNumber)
 {
