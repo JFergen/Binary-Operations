@@ -1,16 +1,11 @@
-Group 14 3600.001
-
-NAMES:
-    Joseph Fergen
-    Aaron Shehan
-    Het Patel
-    Adil Afroze
+Count Leading Zeroes:
+    Converts the 32-bit decimal number to binary and counts the number of zeroes before a '1'.
     
-Organization:
-    Joseph Fergen: main.c/main.h setup, parity.c
-    Aaron Shehan: main.h, clz.c
-    Het Patel: main.h, rotate.c
-    Adil Afroze: main.h, endian.c
+Endian Swap:
+    Swaps bytes 0 and 3, along with bytes 1 and 2.
     
-Known Bugs or Problems:
-    None, it is perfect.
+Rotate:
+    Takes an extra integer operand. This decides by how many bits the first integer is rotated by.
+    
+Parity:
+    Outputs a '0' if even parity (number of 1's in binary representation of decimal number is even), or a '1' if parity is odd.
