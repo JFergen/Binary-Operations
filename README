@@ -9,3 +9,9 @@ Rotate:
     
 Parity:
     Outputs a '0' if even parity (number of 1's in binary representation of decimal number is even), or a '1' if parity is odd.
+
+Compile:
+    gcc *.c
+    
+Execution:
+    ./a.out
